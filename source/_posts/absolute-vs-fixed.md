@@ -1,6 +1,7 @@
 ---
 title: css中定位设为absolute和设为fixed的区别
 tag: Web前端基础
+categories: 技术分享
 ---
 
 区别很简单：
